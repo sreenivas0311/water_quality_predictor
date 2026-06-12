@@ -1,6 +1,6 @@
 # 💧 Water Quality Prediction System
 
-A production-style Machine Learning application for **water quality classification** using physicochemical and biological parameters.
+A  Machine Learning application for **water quality classification** using physicochemical and biological parameters.
 The system supports **manual data entry** and **Excel-based batch prediction**, and is deployed using **Streamlit** with a clean UI.
 
 ---
